@@ -1,10 +1,10 @@
-## Projeto MyMovies
+# Projeto MyMovies
 
 O Projeto MyMovies é uma aplicação backend feita em Kotlin utilizando o framework Spring. A aplicação utiliza um banco de dados PostgreSQL hospedado no servidor supabase.com.
 
 Esse projeto foi feito com o objetivo de demonstrar em aula o deploy de uma aplicação (Kotlin + Spring + PostgreSQL) no servidor render.com
 
-# Requisitos
+## Requisitos
 
 Para o deploy será necessário:
 
